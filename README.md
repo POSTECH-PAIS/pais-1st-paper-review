@@ -8,6 +8,9 @@
 ### Natural Language Processing Team 
 - Ju-eun Kim (Head, [Profile](https://github.com/juevn))
 
+### Machine Learning Team
+- John Won (Head, [Profile](https://github.com/Periphanes))
+  
 ## Papers
 ### Computer Vision Team
 #### 1. U-Net: Convolutional Networks for Biomedical Image Segmentation
