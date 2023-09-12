@@ -1,8 +1,8 @@
-# pais-1st-paper-review
+# PAIS 1st Paper Review 
 - Paper Reviews about CV/NLP/ML by PAIS 1st Members.
 
 ## Members
-- @username
+- @choidaedae
 
 
 ## Computer Vision Team
@@ -10,3 +10,5 @@
 Link: [notion](https://capable-pixie-1bf.notion.site/U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation-eaecc131128e42938ebbd5a501458ae6?pvs=4)
 
 ## Natural Language Processing Team 
+
+## Machine Learning Team 
