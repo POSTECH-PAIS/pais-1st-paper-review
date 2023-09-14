@@ -21,3 +21,4 @@ Link: [notion](https://capable-pixie-1bf.notion.site/U-Net-Convolutional-Network
 Link: [notion](https://capable-pixie-1bf.notion.site/NPLM-A-Neural-Probabilistic-Language-Model-f956a2ad37614d3d82599c2527ff713d?pvs=4)
 
 ### Machine Learning Team 
+Link: [notion](https://capable-pixie-1bf.notion.site/Explaining-and-Harnessing-Adversarial-Examples-6b219aeafec0477a9ccf0bd2c1186e74?pvs=4)
